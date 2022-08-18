@@ -9,6 +9,11 @@ the name of the database, the name of the user and the password need to be chang
 
 Apologies for any log level warnings that might show up. 
 
+# To run the program:
+'python3 main.py'
+OR
+'chmod u+x run.sh' THEN './run.sh'
+
 # Schema Design Pattern:
 STAR schema because a single, large table is used to store both numerical and categorical data. 
 
