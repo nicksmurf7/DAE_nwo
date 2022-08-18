@@ -7,8 +7,6 @@ A locally running PostgreSQL database is necessary for this program to work.
 Moreover, before running the program, a few of the credentials need to be changed. Firstly, in 'main.py',
 the name of the database, the name of the user and the password need to be changed to match that of your local host.
 
-Apologies for any log level warnings that might show up. 
-
 # Schema Design Pattern:
 STAR schema because a single, large table is used to store both numerical and categorical data. 
 
